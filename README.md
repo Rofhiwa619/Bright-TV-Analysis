@@ -1,7 +1,9 @@
-Bright TV Data Analysis Project
-Overview
+# Bright TV Data Analysis Project
+
+### Overview
 This project focuses on cleaning and analysing customer data for Bright TV to improve data quality and extract meaningful insights.
-Data Cleaning
+
+### Data Cleaning
 Data was cleaned using SQL in Databricks:
 •	Removed duplicates using window functions
 •	Handled missing values using COALESCE
